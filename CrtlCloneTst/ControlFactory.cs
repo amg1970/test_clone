@@ -10,7 +10,7 @@ namespace CtrlCloneTst
 {
 	#region ControlFactory
 	/// <summary>
-	/// Summary description for FormControlFactory. TEST
+	/// Summary description for FormControlFactory. TEST2
 	/// </summary>
 	public class ControlFactory
 	{
