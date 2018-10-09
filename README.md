@@ -1,1 +1,1 @@
-# test_transparency
+# test_clone
