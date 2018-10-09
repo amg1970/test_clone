@@ -7,6 +7,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
 //Mihai
+//Mihai 2222
 namespace CtrlCloneTst
 {
 	#region ControlFactory
